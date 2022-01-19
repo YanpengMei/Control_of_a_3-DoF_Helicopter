@@ -1,6 +1,6 @@
-# Project_in_Control_Theory
+# Control_of_a_3-DoF_Helicopter
 
-Last updated on: 28. Feb. 2021
+Finished on: 28. Feb. 2021
 
 Version of Matlab and Simulink: R2020b
 
