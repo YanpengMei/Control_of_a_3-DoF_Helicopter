@@ -1,4 +1,4 @@
-# Control_of_a_3-DoF_Helicopter
+# Control of a 3-DoF Helicopter
 
 Finished on: 28. Feb. 2021
 
