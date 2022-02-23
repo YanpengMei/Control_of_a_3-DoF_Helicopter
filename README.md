@@ -1,6 +1,6 @@
 # Control of a 3-DoF Helicopter
 
-Finished on: 28. Feb. 2021
+Last updated on: 28. Feb. 2021
 
 Version of Matlab and Simulink: R2020b
 
